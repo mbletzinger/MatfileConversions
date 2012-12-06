@@ -21,7 +21,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>org.nees.matfiles.fileconverter.ArchiveText2Matfile</mainClass>
+							<mainClass>org.nees.illinois.matfiles.fileconverter.ArchiveText2Matfile</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
