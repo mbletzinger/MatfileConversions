@@ -1,0 +1,56 @@
+package org.nees.illinois.matfiles.archive.filetypes;
+
+import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.nees.illinois.matfiles.dto.datatypes.DataElement;
+import org.nees.illinois.repo.tools.matfiles.dto.archive.ArchiveFileProperties;
+
+public class KryptonContinuousArchive implements ArchiveFileProperties {
+	private final String name;
+
+	private final String rate = "CONT";
+
+	private final String sp = System.getProperty("file.separator");
+	public KryptonContinuousArchive(String name) {
+		super();
+		this.name = name;
+	}
+	@Override
+	public List<String> getDataFilename(String root) {
+		String path = root + sp + rate;
+		List<String> result = new ArrayList<String>();
+		File pathF = new File(path);
+		for (String f : pathF.list()) {
+			if (f.contains(name) && (f.contains("_HDR") == false)) {
+				result.add(root + sp + rate  + sp + f);
+			}
+		}
+		return result;
+	}
+
+	@Override
+	public String getHeaderFilename(String root) {
+		return root + sp + rate + sp + name + "_HDR.txt";
+	}
+
+	/**
+	 * @return the name
+	 */
+	public String getName() {
+		return name;
+	}
+
+	/**
+	 * @return the rate
+	 */
+	public String getRate() {
+		return rate;
+	}
+
+	@Override
+	public List<DataElement> getDataTypes() {
+		return null;
+	}
+}
