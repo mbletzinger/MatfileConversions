@@ -1,0 +1,2 @@
+Time	SGWFF3WL07A_W6_SG_A7	SGWFF3WL07B_W6_SG_B7	
+seconds	Strain	Strain	

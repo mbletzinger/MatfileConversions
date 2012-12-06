@@ -1,0 +1,2 @@
+Time	L_LBCB2_FX	L_LBCB2_FY	L_LBCB2_FZ	L_LBCB2_MX	L_LBCB2_MY	L_LBCB2_MZ	
+seconds	kips	kips	kips	kip_inches	kip_inches	kip_inches	

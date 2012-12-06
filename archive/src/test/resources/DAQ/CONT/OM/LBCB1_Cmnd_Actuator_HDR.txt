@@ -1,0 +1,2 @@
+Time	C_LBCB1_X1	C_LBCB1_X2	C_LBCB1_Y1	C_LBCB1_Z1	C_LBCB1_Z2	C_LBCB1_Z3	
+seconds	inches	inches	inches	inches	inches	inches	

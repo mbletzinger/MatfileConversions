@@ -1,0 +1,2 @@
+Time	Step	Substep	CorrectionStep	DTN02F2A_W6_LinPot40	DTP01F2A_W6_LinPot39	DTV01F2A_W6_LinPot03	DTV02F2A_W6_LinPot07	DTV08F2A_W6_LinPot31	
+seconds									

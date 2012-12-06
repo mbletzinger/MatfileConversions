@@ -1,0 +1,2 @@
+Time	SP_EXT_LBCB1_X_XTW	
+seconds	inches	
