@@ -1,0 +1,2 @@
+Time	DTN04F3A_W6_LinPot48	DTN05F3A_W6_LinPot54	DTP03F3A_W6_LinPot47	DTP04F3A_W6_LinPot53	DTV03F3A_W6_LinPot12	DTV04F3A_W6_LinPot16	DTV05F3A_W6_LinPot20	
+seconds	inches	inches	inches	inches	inches	inches	inches	

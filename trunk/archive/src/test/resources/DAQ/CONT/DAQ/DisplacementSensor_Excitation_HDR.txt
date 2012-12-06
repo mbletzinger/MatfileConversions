@@ -1,0 +1,2 @@
+Time	W6_EXC_INC_1	W6_EXC_INC_2	W6_EXC_LP_1	W6_EXC_LVDT_1	
+seconds	volts	volts	volts	volts	

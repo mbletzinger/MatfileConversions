@@ -1,0 +1,2 @@
+Time	ADO01F0A_W6_SL_OPW	ADO14F0A_W6_SL_OPE	ADV02F0A_W6_SL_IPW	ADV13F0A_W6_SL_IPE	
+seconds	inches	inches	inches	inches	

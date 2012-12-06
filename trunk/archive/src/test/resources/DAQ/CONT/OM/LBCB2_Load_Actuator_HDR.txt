@@ -1,0 +1,2 @@
+Time	L_LBCB2_X1	L_LBCB2_X2	L_LBCB2_Y1	L_LBCB2_Z1	L_LBCB2_Z2	L_LBCB2_Z3	
+seconds	kips	kips	kips	kips	kips	kips	

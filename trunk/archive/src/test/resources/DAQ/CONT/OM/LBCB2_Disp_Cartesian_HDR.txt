@@ -1,0 +1,2 @@
+Time	D_LBCB2_DX	D_LBCB2_DY	D_LBCB2_DZ	D_LBCB2_RX	D_LBCB2_RY	D_LBCB2_RZ	
+seconds	inches	inches	inches	radians	radians	radians	

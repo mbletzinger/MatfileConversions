@@ -1,0 +1,2 @@
+Time	DTN07F2A_W6_LinPot58	DTP06F2A_W6_LinPot57	DTV06F2A_W6_LinPot23	DTV07F2A_W6_LinPot27	DTV09F2A_W6_LinPot35	
+seconds	inches	inches	inches	inches	inches	

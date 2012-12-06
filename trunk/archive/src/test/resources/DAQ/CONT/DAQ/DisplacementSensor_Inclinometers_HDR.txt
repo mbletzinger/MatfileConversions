@@ -1,0 +1,2 @@
+Time	INIP04F3B_W6_IN_WW	INOP01F3B_W6_IN_WF	INOP07F3B_W6_IN_EF	
+seconds	degrees	degrees	degrees	
